@@ -1,11 +1,15 @@
-import { createApp } from 'vue'
 import App from './App.vue'
-import { router } from '@/router'
 import autofit from 'autofit.js'
-import '@arco-design/web-vue/dist/arco.less'
+import { router } from '@/router'
+import { createApp } from 'vue'
 import 'animate.css'
-import '@/assets/styles/reset.scss'
 import 'leaflet/dist/leaflet.css'
+import '@arco-design/web-vue/dist/arco.less'
+import '@/assets/styles/reset.scss'
+import '@/assets/fonts/DincorosBlack/result.css'
+import '@/assets/fonts/SarasaMonoSC/result.css'
+import '@/assets/fonts/Furore/result.css'
+import '@/assets/iconfont/iconfont.css'
 
 const boostrap = async () => {
   const app = createApp(App)

@@ -71,7 +71,7 @@ const sources = computed(() => [
       margin-top: 4px;
       font-size: 16px;
       .value-number {
-        font-family: Dincoros;
+        font-family: DincorosBlack;
       }
       .value-unit {
         margin-left: 6px;

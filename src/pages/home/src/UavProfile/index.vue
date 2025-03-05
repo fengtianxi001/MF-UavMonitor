@@ -90,7 +90,7 @@ onMounted(() => {
     .detail-info {
       margin-right: 10px;
       .detail-name {
-        font-family: Dincoros;
+        font-family: DincorosBlack;
         font-size: 20px;
         font-weight: bold;
       }

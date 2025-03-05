@@ -68,7 +68,7 @@ const sources = [
     margin-top: 8px;
     font-size: 12px;
     .info-name {
-      font-family: Dincoros;
+      font-family: DincorosBlack;
       font-size: 18px;
     }
     .info-sex {
