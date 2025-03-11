@@ -4,7 +4,7 @@
 
 > 模型加载较慢，如果长时间未加载成功请刷新后重试
 
-> 服务地址 :https://mf-uavmonitor.netlify.app/#/home
+> 服务地址 :https://mf-uav-monitor.vercel.app/#/home
 
 <h1>
   <img src="https://github.com/fengtianxi001/MF-UavMonitor/blob/master/screenshots/screenshot01.png?raw=true" title="screenshot">
